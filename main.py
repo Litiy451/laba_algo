@@ -1,5 +1,4 @@
-f = 10
-a = 5
-b = 7
-if f == 10 or a==6 and b==7:
-    print("Hello World")
+for g in range(10):
+    for i in range(10):
+        if i == 3 and g==7:
+            print("Hello World")
